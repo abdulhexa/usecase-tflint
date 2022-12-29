@@ -26,8 +26,7 @@ jobs:
       uses: terraform-linters/setup-tflint@v2
       with:
          # TFLint version to install
-         tflint_version: default
-
+         tflint_version: latest
 
 
 
