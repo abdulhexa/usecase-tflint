@@ -1,5 +1,5 @@
 plugin "azurerm" {
     enabled = true
-    version = "0.20.0"
+    version = default
     source  = "github.com/terraform-linters/tflint-ruleset-azurerm"
 }
