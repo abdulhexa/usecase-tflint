@@ -1,1 +1,2 @@
 # usecase-tflint
+# setup tflint
